@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cansathost/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/cansathost/static/js/main.1b0bafe5.chunk.js",
+    "main.js.map": "/cansathost/static/js/main.1b0bafe5.chunk.js.map",
+    "runtime-main.js": "/cansathost/static/js/runtime-main.b4826ed0.js",
+    "runtime-main.js.map": "/cansathost/static/js/runtime-main.b4826ed0.js.map",
+    "static/js/2.b55e4a2e.chunk.js": "/cansathost/static/js/2.b55e4a2e.chunk.js",
+    "static/js/2.b55e4a2e.chunk.js.map": "/cansathost/static/js/2.b55e4a2e.chunk.js.map",
+    "static/js/3.dda3dc5e.chunk.js": "/cansathost/static/js/3.dda3dc5e.chunk.js",
+    "static/js/3.dda3dc5e.chunk.js.map": "/cansathost/static/js/3.dda3dc5e.chunk.js.map",
+    "index.html": "/cansathost/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/cansathost/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b55e4a2e.chunk.js.LICENSE.txt": "/cansathost/static/js/2.b55e4a2e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cansathost/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4826ed0.js",
+    "static/js/2.b55e4a2e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1b0bafe5.chunk.js"
+  ]
+}
